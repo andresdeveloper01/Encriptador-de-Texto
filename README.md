@@ -2,11 +2,11 @@
 
 Encriptador de texto 
 
-##Descripción
+## Descripción
 
 El encriptador esta hecho con tecnologias basicas como HTML, CSS y JavaScript cuenta con aparatdo donde tienes el resultado de lo que se encripto o desencripto y un boton para copiar el texto.
 
-###Prueba la pagina aqui
+### Prueba la pagina aqui
 
 [Challenge Encriptador de One Next Education](https://andresdeveloper01.github.io/)
 
