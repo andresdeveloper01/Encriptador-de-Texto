@@ -10,4 +10,4 @@ El encriptador esta hecho con tecnologías básicas como HTML, CSS y JavaScript,
 
 [Challenge Encriptador de One Next Education](https://andresdeveloper01.github.io/Encriptador-de-Texto/)
 
-<img src="./Encriptador.png" alt="Encriptador de texto">
+<img src="./Encriptador.webp" alt="Encriptador de texto">
